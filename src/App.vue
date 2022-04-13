@@ -25,7 +25,7 @@
     
     <footer class="footer">
         <h4>Check out my GitHub</h4>
-        <a rel="stylesheet" href="insert link here">
+        <a rel="stylesheet" href="https://github.com/Klixx120/anime-quotes2">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt=""> </a>
     </footer>
 
